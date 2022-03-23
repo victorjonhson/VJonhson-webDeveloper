@@ -2,8 +2,8 @@
 
 * Brasileiro, RN 
 * Técnico em informática - IFRN (3/4)
-* Deselvolvedor Web Iniciante
-* Deselvovedor de Jogos 2D para Biologia
+* Desenvolvedor Web Iniciante
+* Desenvolvedor de Jogos 2D para Biologia
 * Monitor --> Projeto de Extensão --> IF MEETINGS
 * Fluente em Inglês
 
