@@ -1,6 +1,6 @@
-### Olá, prazer! Me chamo Victor Jonhson 💻
+### Hey, nice to meet you! I'm Victor Jonhson 💻
 
-* Brasileiro, RN 
+* I'm from Brazil and right now you can my abilities bellow: 
 * Técnico em informática - IFRN (3/4)
 * Desenvolvedor Web Iniciante
 * Desenvolvedor de Jogos 2D para Biologia
