@@ -13,7 +13,7 @@
 
 ![Jonhson's GitHub stats](https://github-readme-stats.vercel.app/api?username=VJonhson-webDeveloper&show_icons=true&theme=dracula)
 
-### Tecnologias/linguagens conhecidas
+### Known technologies
 <div style="display:inline_block"><br/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -22,5 +22,5 @@
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div>
 
-### Informações Adicionais
+### More informations
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VJonhson-webDeveloper&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
