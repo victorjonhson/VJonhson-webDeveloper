@@ -1,6 +1,6 @@
 ### Hey, nice to meet you! I'm Victor Jonhson 💻
 
-* I'm from Brazil and right now you can my abilities bellow: 
+* I'm from Brazil and right now you can see my abilities bellow: 
 * Informatics student - IFRN (4/4)
 * Beginner Web Developer (full strack)
 * I've worked with the 2D game development for biology subject 
