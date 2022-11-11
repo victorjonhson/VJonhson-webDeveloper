@@ -1,11 +1,11 @@
 ### Hey, nice to meet you! I'm Victor Jonhson 💻
 
 * I'm from Brazil and right now you can my abilities bellow: 
-* Técnico em informática - IFRN (3/4)
-* Desenvolvedor Web Iniciante
-* Desenvolvedor de Jogos 2D para Biologia
-* Monitor --> Projeto de Extensão --> IF MEETINGS
-* Fluente em Inglês
+* Informatics student - IFRN (4/4)
+* Beginner Web Developer (full strack)
+* I've worked with the 2D game development for biology subject 
+* I've worked as a monitor and designer from an English project during high school
+* Last but not least, I speak Portuguese and English fluently, also a little bit of Spanish. 
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_victorjonhson)
 [![instagram](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/victorjonhson.aciole)
