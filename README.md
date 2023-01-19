@@ -11,7 +11,7 @@
 [![instagram](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/victorjonhson.aciole)
 
 
-![Jonhson's GitHub stats](https://github-readme-stats.vercel.app/api?username=VJonhson-webDeveloper&show_icons=true&theme=dracula)
+![Jonhson's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorjonhson&show_icons=true&theme=dracula)
 
 ### Known technologies
 <div style="display:inline_block"><br/>
