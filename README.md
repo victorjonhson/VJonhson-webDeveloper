@@ -1,11 +1,9 @@
-### Hey, nice to meet you! I'm Victor Jonhson 💻
+### Olá, seja bem-vindo(a) ao meu GitHub! Me chamo Victor Jonhson 💻
+#### Designer | Web Developer (Front-end)
 
-* I'm from Brazil and right now you can see my abilities bellow: 
-* Informatics student - IFRN (4/4)
-* Beginner Web Developer (full strack)
-* I've worked with the 2D game development for biology subject 
-* I've worked as a monitor and designer from an English project during high school
-* Last but not least, I speak Portuguese and English fluently, also a little bit of Spanish. 
+#### FORMAÇÃO ACADÊMICA
+* Bacharelado em Tecnologia da Informação - Ensino Superior - Universidade Federal do Rio Grande do Norte (UFRN) (2023 - Atual)
+* Técnico em Informática - Ensino Médio - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN) (2019 - 2022)
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/victorjonhson_)
 [![instagram](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/victorjonhson.aciole)
